@@ -18,5 +18,25 @@ b. Menentukan pelanggan potensial, pelanggan yang hampir churn, dan pelanggan lo
 
 c. Memberikan insight untuk strategi pemasaran berbasis data.
 
+## 🛠️ Tools & Library
+
+- Python 3.x
+- Pandas
+- NumPy
+- Matplotlib & Seaborn
+- Scikit-learn (KMeans, PCA, Silhouette Score)
+
+## Hasil & Insight 
+### 💡 Hasil & Insight
+![image](https://github.com/user-attachments/assets/2dc6d47b-2429-42c7-ba3e-6bd43fe41879)
+
+
+- Cluster 0: Pelanggan loyal dengan frekuensi dan nilai pembelian tinggi.
+- Cluster 1: Pelanggan tidak aktif dengan jarak waktu pembelian yang lama.
+- Cluster 2: Pelanggan baru atau berpotensi meningkat.
+- Cluster 3: Pelanggan sangat aktif dengan pembelian besar dan rutin.
+
+Insight ini dapat digunakan untuk menyusun strategi pemasaran seperti personalisasi promosi, loyalitas program, atau reaktivasi pelanggan.
+
 
 
