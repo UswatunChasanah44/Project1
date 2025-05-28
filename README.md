@@ -26,8 +26,8 @@ c. Memberikan insight untuk strategi pemasaran berbasis data.
 - Matplotlib & Seaborn
 - Scikit-learn (KMeans, PCA, Silhouette Score)
 
-## Hasil & Insight 
-### 💡 Hasil & Insight
+## 💡 Hasil & Insight 
+
 ![image](https://github.com/user-attachments/assets/2dc6d47b-2429-42c7-ba3e-6bd43fe41879)
 
 
